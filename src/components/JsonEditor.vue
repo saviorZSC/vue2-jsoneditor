@@ -34,7 +34,8 @@ export default {
     json: {
       handler (newJson) {
         if (this.editor) {
-          this.editor.set(newJson)
+          this.editor.set(newJson);
+          this.$emit('jsoneditor', newJson);
         }
       },
       deep: true
