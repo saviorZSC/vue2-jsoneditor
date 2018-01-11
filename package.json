@@ -1,8 +1,8 @@
 {
-  "name": "vue2-jsoneditor",
+  "name": "vue2-jsoneditor-savior",
   "version": "1.0.5",
   "description": "Vue.js 2.* jsoneditor Wrapper",
-  "author": "Adam Jimenez <jimenez.adam0@gmail.com>",
+  "author": "Savior",
   "private": false,
   "main": "src/components/JsonEditor.vue",
   "scripts": {
